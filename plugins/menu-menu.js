@@ -24,10 +24,10 @@ let Styles = (text, style = 1) => {
 };
 
 let tags = {
-  'pago': '💲 ᴘʀᴇᴄɪᴏ ᴛᴀɴᴊɪʀᴏ 💲',
+  'freefire': '💲 ꜰʀᴇᴇ ꜰɪʀᴇ ꜱᴜʀ 💲',
+  'freefireeu': '👾 ꜰʀᴇᴇ ꜰɪʀᴇ ᴇᴇᴜᴜ 👾',
   'main': '✨ ɪɴꜰᴏ ʙᴏᴛ ✨',
   'menu': '👑 ᴍᴇɴᴜ 👑',
-  'free': '👾 ꜰʀᴇᴇ ꜰɪʀᴇ 👾',
   'buscador': '🔎 ʙᴜꜱQᴜᴇᴅᴀꜱ 🔎',
   'search': '🔍 ꜱᴇᴀʀᴄʜ 🔍',
   'game': '🎊 ᴅɪᴠᴇʀꜱɪᴏɴ 🎊',
@@ -53,12 +53,12 @@ let tags = {
 }
 
 const defaultMenu = {
-  before: `Hola \`%name\` soy TanjiroBot-MD, %greeting
+  before: `Hola \`%name\` soy eazzy x, %greeting
 
 乂 _\`ᴜ\` \`ꜱ\` \`ᴜ\` \`ᴀ\` \`ʀ\` \`ɪ\` \`ᴏ\`_ 乂
 
 • _\`ɴᴏᴍʙʀᴇ\`_ :: %name
-• _\`ʙᴏᴛ\`_ :: TanjiroBot-MD
+• _\`ʙᴏᴛ\`_ :: Eazzy X Bot
 • _\`ᴍᴏᴅᴏ\`_ :: Público
 • _\`ᴀᴄᴛɪᴠᴏ\`_ :: %muptime
 • _\`ᴜꜱᴜᴀʀɪᴏꜱ\`_ :: %totalreg
@@ -70,9 +70,9 @@ const defaultMenu = {
   header: '╭─(❀)❝┊ *_`%category`_* ┊❝(❀)',
   body: '┊➧ %cmd\n',
   footer: '╰───────────── –\n',
-  after: `> By TanjiroBot-Md`,
+  after: `> By @Kcha.Mobiles`,
 }
-let ppp = 'https://qu.ax/CkXP.jpg'
+let ppp = 'https://qu.ax/cqUYc.jpg'
 let handler = async (m, { conn, usedPrefix: _p, __dirname }) => {
   try {
     let _package = JSON.parse(await promises.readFile(join(__dirname, '../package.json')).catch(_ => ({}))) || {}
@@ -200,7 +200,7 @@ await conn.sendFile(m.chat, imagen_menu, 'menu.jpg', Styles(text.trim()), fakegi
 handler.help = ['allmenu']
 handler.tags = ['menu']
 handler.command = ['menuall', 'allmenú', 'allmenu'] 
-handler.register = true
+handler.register = false
 
 export default handler
 
