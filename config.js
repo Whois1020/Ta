@@ -27,16 +27,16 @@ global.prems = []
 global.isBaileysFail = false
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = 'Gengar Bot 🤖'
+global.packname = 'Tanjiro Bot 🤖'
 global.author = '@whois.yallico'
 global.wm = 'Gengar Ia'
-global.titulowm = 'Gengar Bot 👾'
-global.titulowm2 = 'Gengar Bot Md 👾'
+global.titulowm = 'Tanjiro Bot 👾'
+global.titulowm2 = 'Tanjiro Bot Md 👾'
 global.igfg = '@whois.yallico'
-global.botname = 'Gengar Mod 👾'
+global.botname = 'Tanjiro Mod 👾'
 global.dev = '`Whois Yallico 👾*'
-global.titu = '*[ By : Gengar x Yallico ]*'
-global.textbot = 'Gengar Bot X Yallico 👾'
+global.titu = '*[ By : Tanjiro x Yallico ]*'
+global.textbot = 'Tanjiro Bot X Yallico 👾'
 global.vs = '1.5.1'
 
 
