@@ -14,33 +14,29 @@ global.confirmCode = ''
 
 //• ↳𝑺𝑶𝑳𝑶 𝑫𝑬𝑺𝑨𝑹𝑹𝑶𝑳𝑳𝑨𝑫𝑶𝑹𝑬𝑺 𝑨𝑷𝑹𝑶𝑩𝑨𝑫𝑶𝑺
 global.owner = [
-  ['51926956637', '✎ Yallico Owner', true],
-  ['51918425805', '✎ Bianca Owner', true],
-  ['5491161225453', '✎ Mayra Owner', true],
-  ['51971060913', '✎ Nare Owner', true],
-  ['524172064415', '✎ Nat Owner', true],
-  ['50588586015', '✎ Lexus Owner', true],
-  ['5491163959270', '✎ Mari Owner', true],
+  ['51936994155', '✎ Yallico Owner', true],
+  ['51993800613', '✎ Mel Owner', true],
+  ['573042479614', '✎ Thali Owner', true],
   ['']]
 
 //• ↳𝑺𝑶𝑳𝑶 𝑴𝑶𝑫𝑬𝑹𝑨𝑫𝑶𝑹𝑬𝑺!
-global.mods = ['51926956637']
-global.suittag = ['51926956637']
+global.mods = ['51936994155']
+global.suittag = ['51936994155']
 global.prems = []
 // Cambiar a false para usar el Bot desde el mismo numero del Bot.
 global.isBaileysFail = false
 
 //• ↳ ◜𝑴𝑨𝑹𝑪𝑨𝑺 𝑫𝑬 𝑨𝑮𝑼𝑨◞ • 💌
-global.packname = '𝗧𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 - 𝗠𝗗'
-global.author = '@yallico.owner'
-global.wm = '𝗧𝗮𝗻𝗷𝗶𝗿𝗼 𝗜𝗔'
-global.titulowm = '𝗧𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 - 𝗠𝗗  👾'
-global.titulowm2 = '𝗧𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 - 𝗠𝗗 👾'
-global.igfg = '@yallico.owner'
-global.botname = '𝗧𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 👾'
-global.dev = '`𝗧𝗮𝗻𝗷𝗶𝗿𝗼 𝗕𝗼𝘁 👾*'
-global.titu = '*[ By : Tanjiro x Yallico ]*'
-global.textbot = 'Tanjiro Bot X Yallico 👾'
+global.packname = 'Gengar Bot 🤖'
+global.author = '@whois.yallico'
+global.wm = 'Gengar Ia'
+global.titulowm = 'Gengar Bot 👾'
+global.titulowm2 = 'Gengar Bot Md 👾'
+global.igfg = '@whois.yallico'
+global.botname = 'Gengar Mod 👾'
+global.dev = '`Whois Yallico 👾*'
+global.titu = '*[ By : Gengar x Yallico ]*'
+global.textbot = 'Gengar Bot X Yallico 👾'
 global.vs = '1.5.1'
 
 
@@ -67,15 +63,16 @@ global.estilox = { key: {  fromMe: false, participant: `0@s.whatsapp.net`, ...(f
 
 
 //• ↳ ◜𝑳𝑰𝑵𝑲𝑺◞ • 🌿
-global.id_canal = '120363344106085676@newsletter' //-ID de canal de WhatsApp
-global.canal = 'https://whatsapp.com/channel/0029VamB7DI4dTnGjYVhQy3j' //CANAL GENESIS
-global.canal2 = 'https://whatsapp.com/channel/0029VamB7DI4dTnGjYVhQy3j' //CANAL TITANIUM TEAM
-global.bgp = 'https://chat.whatsapp.com/FCxJI7wLJXD4sYlfbX2jJJ' //GRUPO DE AVISOS
-global.bgp2 = 'https://chat.whatsapp.com/D8b5JZEIfLF3YZiCDP1cAp' //GRUPO GLOBAL 1
-global.bgp3 = 'https://chat.whatsapp.com/FCxJI7wLJXD4sYlfbX2jJJ' //GRUPO GLOBAL 2
-global.bgp4 = 'https://chat.whatsapp.com/D8b5JZEIfLF3YZiCDP1cAp' //GRUPO NSFW
+global.id_canal = '120363419947391620@newsletter' //-ID de canal de WhatsApp
+global.canal = 'https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m' //CANAL GENESIS
+global.canal2 = 'https://whatsapp.com/channel/0029Vb5oUp43LdQUVViHwc0m' //CANAL TITANIUM TEAM
+global.bgp = 'https://chat.whatsapp.com/Fi6FHZ8VSGnAT7CKJkcd9r?mode=gi_t' //GRUPO DE AVISOS
+global.bgp2 = 'https://chat.whatsapp.com/Fi6FHZ8VSGnAT7CKJkcd9r?mode=gi_t' //GRUPO GLOBAL 1
+global.bgp3 = 'https://chat.whatsapp.com/Fi6FHZ8VSGnAT7CKJkcd9r?mode=gi_t' //GRUPO GLOBAL 2
+global.bgp4 = 'https://chat.whatsapp.com/Fi6FHZ8VSGnAT7CKJkcd9r?mode=gi_t' //GRUPO NSFW
 global.md = 'https://github.com/TanjiroVipPro' //Github Oficial
-global.ig = 'https://www.instagram.com/yallico.owner' //Ig Oficial
+global.ig = 'https://www.instagram.com/whois.yallico
+' //Ig Oficial
 global.correo = 'yallico2024@gmail.com'
 
 //• ↳ ◜𝑻𝑰𝑬𝑴𝑷𝑶◞ • 🕒
